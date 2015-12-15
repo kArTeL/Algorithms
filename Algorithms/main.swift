@@ -10,3 +10,10 @@ import Foundation
 
 print("Hello, World!")
 
+//Fibonnaci
+let number = 12
+var fibonacciResult:Int = Fibonacci.fibonacci(number)
+print("Fibonnaci of \(number) is  \(fibonacciResult)")
+
+
+
