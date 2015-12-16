@@ -10,6 +10,7 @@
 		CD2806091C20B3120049AF49 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD2806081C20B3120049AF49 /* main.swift */; };
 		CD2806101C20B4AC0049AF49 /* Fibonacci.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD28060F1C20B4AC0049AF49 /* Fibonacci.swift */; };
 		CD2806121C20B9020049AF49 /* Sort.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD2806111C20B9020049AF49 /* Sort.swift */; };
+		CD2806141C20BD380049AF49 /* Finder.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD2806131C20BD380049AF49 /* Finder.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		CD2806081C20B3120049AF49 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		CD28060F1C20B4AC0049AF49 /* Fibonacci.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Fibonacci.swift; sourceTree = "<group>"; };
 		CD2806111C20B9020049AF49 /* Sort.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sort.swift; sourceTree = "<group>"; };
+		CD2806131C20BD380049AF49 /* Finder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Finder.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				CD2806081C20B3120049AF49 /* main.swift */,
 				CD28060F1C20B4AC0049AF49 /* Fibonacci.swift */,
 				CD2806111C20B9020049AF49 /* Sort.swift */,
+				CD2806131C20BD380049AF49 /* Finder.swift */,
 			);
 			path = Algorithms;
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 				CD2806091C20B3120049AF49 /* main.swift in Sources */,
 				CD2806101C20B4AC0049AF49 /* Fibonacci.swift in Sources */,
 				CD2806121C20B9020049AF49 /* Sort.swift in Sources */,
+				CD2806141C20BD380049AF49 /* Finder.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
